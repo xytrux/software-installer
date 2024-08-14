@@ -17,8 +17,7 @@ choco install rainmeter --version 4.3.0.3321 -y
 choco install lively --version 2.1.0.8 -y
 choco install obs-studio --version 30.1.2 -y
 choco install prismlauncher --version 8.3.0 -y
-choco install spotify --version 1.2.39.578 -y
-choco install spicetify-cli --version 2.36.13 -y
+choco install th-ch-youtube-music -y
 choco install itunes --version 12.13.2.3 -y
 choco install python --version 3.12.4 -y
 
